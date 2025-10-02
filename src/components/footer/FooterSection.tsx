@@ -54,7 +54,7 @@ const FooterSection = () => {
                   <Link href="#">Branches</Link>
                 </li>
                 <li>
-                  <Link href="#">ÉVÉNEMENT</Link>
+                  <Link href="#">événement</Link>
                 </li>
                 <li>
                   <Link href="#">Contact</Link>

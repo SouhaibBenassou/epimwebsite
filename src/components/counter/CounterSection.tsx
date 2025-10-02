@@ -22,7 +22,7 @@ const CounterSection = () => {
             <div className="single-counter">
               <span className="ti-medall-alt sc_two"></span>
               <NumberCounter
-                number={100}
+                number={20}
                 durationToComplete={2}
                 className="counter-num"
               />
@@ -37,7 +37,7 @@ const CounterSection = () => {
                 durationToComplete={2}
                 className="counter-num"
               />
-              <p>lauréat</p>
+              <p>Lauréat</p>
             </div>
           </div>
           <div className="col-lg-3 col-sm-6 col-xs-12">

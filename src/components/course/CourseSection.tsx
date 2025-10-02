@@ -51,7 +51,7 @@ const CourseSection = ({ showHeader }: Props) => {
                 </p>
                 <div className="price"> 
                   <div className="cour_btn">
-                <Link href={`/course/${item.slug}`} className="btn_one">
+                <Link href={`/`} className="btn_one">
                   Details <i className="ti-arrow-top-right"></i>
                 </Link>
               </div>
@@ -101,7 +101,7 @@ const CourseSection = ({ showHeader }: Props) => {
                 </p>
                 <div className="price"> 
                   <div className="cour_btn">
-                <Link href={`/course/${item.slug}`} className="btn_one">
+                <Link href={`/`} className="btn_one">
                   Details <i className="ti-arrow-top-right"></i>
                 </Link>
               </div>
@@ -141,7 +141,7 @@ const CourseSection = ({ showHeader }: Props) => {
                 </div>
                 
                 <h4>
-                  <Link href={`/course/${item.slug}`}>{item.title}</Link>
+                  <Link href={`/`}>{item.title}</Link>
                 </h4>
                 <p>
                   <span className="ti-book"> </span> {item.course} Module
@@ -152,7 +152,7 @@ const CourseSection = ({ showHeader }: Props) => {
                 </p>
                 <div className="price"> 
                   <div className="cour_btn">
-                <Link href={`/course/${item.slug}`} className="btn_one">
+                <Link href={`/`} className="btn_one">
                   Details <i className="ti-arrow-top-right"></i>
                 </Link>
               </div>

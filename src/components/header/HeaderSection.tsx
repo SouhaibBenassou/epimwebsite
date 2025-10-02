@@ -60,7 +60,7 @@ const HeaderSection = () => {
             
            }
           <Link href="https://inscription.epim.ma" className="btn_one">
-              inscription
+              Pré-inscription
             </Link>
             </div>
         </div>

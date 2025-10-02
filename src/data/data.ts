@@ -140,7 +140,7 @@ const westfordData = [
 const teamData = [
   {
     id: 1,
-    img: "/assets/img/team/hamzabourkha.jpg",
+    img: "/assets/img/team/team7.jpg",
     socials: [
       {
         url: "#",
@@ -163,7 +163,7 @@ const teamData = [
   },
   {
     id: 2,
-    img: "/assets/img/team/team2.jpg",
+    img: "/assets/img/team/team6.jpg",
     socials: [
       {
         url: "#",
@@ -186,7 +186,7 @@ const teamData = [
   },
   {
     id: 3,
-    img: "/assets/img/team/team3.jpg",
+    img: "/assets/img/team/team6.jpg",
     socials: [
       {
         url: "#",
@@ -201,15 +201,15 @@ const teamData = [
         socialMedia: "ti-facebook",
       },
     ],
-    name: "Olivia Smith",
+    name: "Fatimzahra Bourkha",
     slug: "olivia-smith",
-    role: "Codecanyon",
+    role: "Administration",
     course: 13,
     students: 31,
   },
   {
     id: 4,
-    img: "/assets/img/team/team4.jpg",
+    img: "/assets/img/team/team7.jpg",
     socials: [
       {
         url: "#",
@@ -224,9 +224,9 @@ const teamData = [
         socialMedia: "ti-facebook",
       },
     ],
-    name: "Noah Brown",
+    name: "Souhaib benassou",
     slug: "noah-brown",
-    role: "Web developer",
+    role: "Développeur web",
     course: 7,
     students: 24,
   },
